@@ -1,5 +1,5 @@
 #include <zlib/zlib/zlib.h>
-#include <curl/curl.h>
+//#include <curl/curl.h>
 
 #include <stdio.h>
 
